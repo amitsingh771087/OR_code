@@ -70,8 +70,8 @@
     }
   @media (max-width: 375px) {
     .container{
-        /* background: var(--White); */
-        background-color: red;
+        background: var(--White);
+        /* background-color: red; */
         width: 23vw;
         height: 60vh;
 
